@@ -25,7 +25,7 @@ npm install
 > MongoDB
 
 Para rodar o mongodb é necessário ter o docker e docker-compose instalados
-link da documentação do docler: https://www.docker.com/
+link da documentação do docker: https://www.docker.com/
 para iniciar o banco de dados bata seguir os comandos abaixo
 ```bash
 cd  back-end
